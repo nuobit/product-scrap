@@ -25,7 +25,7 @@
 
 {
     "name": "Products Scrap",
-    "version": "1.0",
+    "version": "8.0.0.1.0",
     "author": "Medma Infomatix",
     "category": "Warehouse Management",
     "website": "http://www.medma.net",
