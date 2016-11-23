@@ -37,7 +37,7 @@ class StockScrap(models.TransientModel):
     src_location_id = fields.Many2one('stock.location', string='Location', required=True)
     location_id = fields.Many2one('stock.location', string='Location', required=True)
     restrict_lot_id = fields.Many2one('stock.production.lot', string='Lot')
-    open_move = fields.Boolean(string='Open Scrap Move', help='Created Scrap Move will be opened else wizard will be closed only', default=True)
+    open_move = fields.Boolean(string='Open Scrap Move', help='Created Scrap Move will be opened else wizard will be closed only', default=False)
 
     @api.model
     def default_get(self, fields):
