@@ -104,7 +104,7 @@ msgstr "Cantidad"
 #. module: products_scrap
 #: view:stock.scrap:products_scrap.view_stock_scrap_wizard
 msgid "Scrap"
-msgstr "Desecho"
+msgstr "Desechar"
 
 #. module: products_scrap
 #: view:stock.scrap:products_scrap.view_stock_scrap_wizard
