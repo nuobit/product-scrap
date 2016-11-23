@@ -1,0 +1,141 @@
+# This file contains the translation of the following modules:
+#	* products_scrap
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-23 16:07+0000\n"
+"PO-Revision-Date: 2016-11-23 16:07+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: products_scrap
+#: view:stock.scrap:products_scrap.view_stock_scrap_wizard
+msgid "Cancel"
+msgstr "Cancel·lar"
+
+#. module: products_scrap
+#: help:stock.scrap,open_move:0
+msgid "Created Scrap Move will be opened else wizard will be closed only"
+msgstr "S'obrirà el moviment de rebuig un cop tancat aquest assistent"
+
+#. module: products_scrap
+#: field:stock.scrap,create_uid:0
+msgid "Created by"
+msgstr "Creat per"
+
+#. module: products_scrap
+#: field:stock.scrap,create_date:0
+msgid "Created on"
+msgstr "Creat el"
+
+#. module: products_scrap
+#: help:stock.scrap,product_uom:0
+msgid "Default Unit of Measure used for all stock operation."
+msgstr "Unitat de mesura per defecte utilitzada en totes les operacions d'stock."
+
+#. module: products_scrap
+#: field:stock.scrap,display_name:0
+msgid "Display Name"
+msgstr "Nom a mostrar"
+
+#. module: products_scrap
+#: field:stock.scrap,id:0
+msgid "ID"
+msgstr "ID"
+
+#. module: products_scrap
+#: field:stock.scrap,__last_update:0
+msgid "Last Modified on"
+msgstr "Darrera modificació el"
+
+#. module: products_scrap
+#: field:stock.scrap,write_uid:0
+msgid "Last Updated by"
+msgstr "Darrera actualizació per"
+
+#. module: products_scrap
+#: field:stock.scrap,write_date:0
+msgid "Last Updated on"
+msgstr "Darrera actualizació el"
+
+#. module: products_scrap
+#: field:stock.scrap,location_id:0
+#: field:stock.scrap,src_location_id:0
+msgid "Location"
+msgstr "Ubicació"
+
+#. module: products_scrap
+#: field:stock.scrap,restrict_lot_id:0
+msgid "Lot"
+msgstr "Lot"
+
+#. module: products_scrap
+#: field:stock.scrap,open_move:0
+msgid "Open Scrap Move"
+msgstr "Obrir moviment de rebuig"
+
+#. module: products_scrap
+#: code:addons/products_scrap/wizard/scrap_stock.py:71
+#, python-format
+msgid "Please provide a positive quantity to scrap."
+msgstr "Si us plau, introdueix una quantitat positiva a rebutjar."
+
+#. module: products_scrap
+#: field:stock.scrap,product_id:0
+msgid "Product"
+msgstr "Producte"
+
+#. module: products_scrap
+#: field:stock.scrap,product_uom:0
+msgid "Product Unit of Measure"
+msgstr "Unidat de mesura del producte"
+
+#. module: products_scrap
+#: field:stock.scrap,product_qty:0
+msgid "Quantity"
+msgstr "Quantitat"
+
+#. module: products_scrap
+#: view:stock.scrap:products_scrap.view_stock_scrap_wizard
+msgid "Scrap"
+msgstr "Rebuig"
+
+#. module: products_scrap
+#: view:stock.scrap:products_scrap.view_stock_scrap_wizard
+msgid "Scrap Location"
+msgstr "Ubicació de rebuig"
+
+#. module: products_scrap
+#: model:ir.actions.act_window,name:products_scrap.act_location_scrap_product
+#: model:ir.actions.act_window,name:products_scrap.act_location_scrap_product_location
+#: model:ir.actions.act_window,name:products_scrap.scrap_product
+msgid "Scrap Product"
+msgstr "Rebutjar producte"
+
+#. module: products_scrap
+#: model:ir.model,name:products_scrap.model_stock_scrap
+#: view:stock.scrap:products_scrap.view_stock_scrap_wizard
+msgid "Scrap Products"
+msgstr "Rebutjar productes"
+
+#. module: products_scrap
+#: view:stock.scrap:products_scrap.view_stock_scrap_wizard
+msgid "Source Location"
+msgstr "Ubicació origen"
+
+#. module: products_scrap
+#: code:addons/products_scrap/wizard/scrap_stock.py:71
+#, python-format
+msgid "Warning!"
+msgstr "Atenció!"
+
+#. module: products_scrap
+#: view:stock.scrap:products_scrap.view_stock_scrap_wizard
+msgid "or"
+msgstr "o"
