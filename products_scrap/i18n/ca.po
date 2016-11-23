@@ -94,7 +94,7 @@ msgstr "Producte"
 #. module: products_scrap
 #: field:stock.scrap,product_uom:0
 msgid "Product Unit of Measure"
-msgstr "Unidat de mesura del producte"
+msgstr "Unitat de mesura del producte"
 
 #. module: products_scrap
 #: field:stock.scrap,product_qty:0
